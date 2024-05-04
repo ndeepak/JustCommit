@@ -1,2 +1,1 @@
-Fix typo
-eature
+Implement a bug fix
