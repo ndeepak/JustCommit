@@ -1,2 +1,1 @@
-Refactor code
-g fix
+Add new feature
