@@ -1,2 +1,1 @@
-Fix typo
-eature
+Update documentation
