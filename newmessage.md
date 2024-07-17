@@ -1,2 +1,1 @@
-Fix typo
- a bug fix
+Implement a bug fix
