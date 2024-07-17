@@ -1,1 +1,2 @@
-Update documentation
+Refactor code
+tation
