@@ -1,1 +1,2 @@
-Fix typo
+Refactor code
+g fix
