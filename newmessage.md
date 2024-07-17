@@ -1,2 +1,1 @@
-Refactor code
-g fix
+Fix typo
