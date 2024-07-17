@@ -1,2 +1,1 @@
-Refactor code
-e
+Implement a bug fix
