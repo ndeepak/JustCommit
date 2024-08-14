@@ -1,1 +1,2 @@
-Add new feature
+Fix typo
+cumentation
