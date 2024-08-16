@@ -1,1 +1,1 @@
-Add new feature
+Update documentation
