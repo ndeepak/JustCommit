@@ -1,1 +1,1 @@
-Fix typo
+Refactor code
