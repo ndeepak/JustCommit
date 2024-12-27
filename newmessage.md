@@ -1,1 +1,1 @@
-Fix typo
+Update documentation
