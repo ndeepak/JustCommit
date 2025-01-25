@@ -1,1 +1,1 @@
-Add new feature
+Implement a bug fix
