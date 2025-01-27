@@ -1,1 +1,1 @@
-Implement a bug fix
+Update documentation
