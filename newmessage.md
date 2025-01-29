@@ -1,1 +1,1 @@
-Fix typo
+Implement a bug fix
